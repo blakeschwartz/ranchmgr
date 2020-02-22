@@ -1,0 +1,26 @@
+{
+  "name": "ranchmgr",
+  "version": "1.0.0",
+  "description": "Web App for managing livestock on a ranch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeschwartz/ranchmgr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakeschwartz/ranchmgr/issues"
+  },
+  "homepage": "https://github.com/blakeschwartz/ranchmgr#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-object-rest-spread": "^7.8.3",
+    "@babel/plugin-transform-react-jsx": "^7.8.3",
+    "@babel/preset-env": "^7.8.4"
+  }
+}
