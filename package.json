@@ -18,9 +18,15 @@
   },
   "homepage": "https://github.com/blakeschwartz/ranchmgr#readme",
   "devDependencies": {
+    "@babel/core": "^7.8.4",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.8.3",
     "@babel/plugin-transform-react-jsx": "^7.8.3",
-    "@babel/preset-env": "^7.8.4"
+    "@babel/preset-env": "^7.8.4",
+    "@babel/register": "^7.8.3",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^3.8.2"
   }
 }
